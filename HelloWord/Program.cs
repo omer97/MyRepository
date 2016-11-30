@@ -8,8 +8,9 @@ namespace HelloWord
 {
     static class Program
     {
-        //static void Main(string[] args)
+        static void Main(string[] args)
         {
+            var res = 1/0;
             Console.WriteLine("Hello World" );
         }
     }
