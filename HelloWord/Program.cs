@@ -10,7 +10,6 @@ namespace HelloWord
     {
         static void Main(string[] args)
         {
-            var res = 1/0;
             Console.WriteLine("Hello World" );
         }
     }
