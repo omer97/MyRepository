@@ -1,16 +1,1 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace HelloWord
-{
-    static class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World" );
-        }
-    }
-}
+Hello Universe! 09-23-2017 01:47:23 PM
